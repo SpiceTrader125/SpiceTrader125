@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SpiceTrader125
+- 👀 I’m interested in Science, Astronomy, Physics, Chemistry, Languages and Programming languages.
+- 🌱 I’m currently learning programming. I am new and not very good in maths, but I am willing to try it.
+- 💞️ I’m looking to collaborate on writing free software, supporting FSF and GNU and spreading Linux.
